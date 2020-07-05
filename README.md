@@ -13,7 +13,7 @@
 algorithms (包含常用进化算法),
 gp (需要通过阅读论文构造自己的GEP)
 (E:\project\github)
-![avatar](E:/project/github/framework.png)
+![image](https://github.com/Keira-liu/PHBS-ShortTerm-Factor/tree/master/Deap/framework.png)
 
 ***
 
