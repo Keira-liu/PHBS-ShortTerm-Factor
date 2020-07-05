@@ -12,8 +12,7 @@
 还会用到的模块：
 algorithms (包含常用进化算法),
 gp (需要通过阅读论文构造自己的GEP)
-(E:\project\github)
-![image](https://github.com/Keira-liu/PHBS-ShortTerm-Factor/tree/master/Deap/framework.png)
+![](https://github.com/Keira-liu/PHBS-ShortTerm-Factor/blob/master/Deap/framework.png)
 
 ***
 
