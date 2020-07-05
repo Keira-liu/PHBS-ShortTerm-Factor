@@ -13,8 +13,9 @@
 algorithms (包含常用进化算法),
 gp (需要通过阅读论文构造自己的GEP)
 (E:\project\github)
+![avatar](E:/project/github/framework.png)
 
-[========]
+***
 
 ###ddl(指定日期：July.05/2020):
 + ddl: July.12
