@@ -17,7 +17,7 @@ gp (需要通过阅读论文构造自己的GEP)
 
 ***
 
-###ddl(指定日期：July.05/2020):
+### ddl(指定日期：July.05/2020):
 + ddl: July.12
     + Anyi & Jizhong: 编写GEP_operatory及相应的documentation（47+）
     + Bolan:处理原始数据存入pkl文件（close,high,open,low,vwap,volume,return,trade_dt）
